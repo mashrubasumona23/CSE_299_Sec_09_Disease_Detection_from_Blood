@@ -7,7 +7,6 @@
 ### <p align="center">Faculty        : Muhammad Shafayat Oshman  </p>
 ### <p align="center">Initial        : MUO  </p>
 
-## <p align="center"> Group          : 01  </p>
 ### Students are_
 ### <table align="center">
   <tr>
