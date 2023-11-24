@@ -4,7 +4,7 @@
 
 ### File location on my pc is : S:\Disease detection
 
-<p align="center"><img align="center" src="https://github.com/mashrubasumona23/CSE_299_Sec_09_Disease_Detection_from_Blood/blob/main/Disease%20detection/To%20Run.png"></p>
+<p align="center"><img align="center" src="https://github.com/mashrubasumona23/CSE_299_Sec_09_Disease_Detection_from_Blood/blob/main/Disease%20detection/Relevant%20images/To%20Run.png"></p>
 *
 *
 
@@ -24,10 +24,10 @@
 *
 
 ### Dependencies To Install
-<p align="center"><img align="center" src="https://github.com/mashrubasumona23/CSE_299_Sec_09_Disease_Detection_from_Blood/blob/main/Disease%20detection/Installed%20dependencies.png"></p>
+<p align="center"><img align="center" src="https://github.com/mashrubasumona23/CSE_299_Sec_09_Disease_Detection_from_Blood/blob/main/Disease%20detection/Relevant%20images/Installed%20dependencies.png"></p>
 *
 *
 *
 
 ### Installing Dependencies
-<p align="center"><img align="center" src="https://github.com/mashrubasumona23/CSE_299_Sec_09_Disease_Detection_from_Blood/blob/main/Disease%20detection/Installed%20dependencies2.png"></p>
+<p align="center"><img align="center" src="https://github.com/mashrubasumona23/CSE_299_Sec_09_Disease_Detection_from_Blood/blob/main/Disease%20detection/Relevant%20images/Installed%20dependencies2.png"></p>
