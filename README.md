@@ -15,11 +15,6 @@
     <th>E-mail</th>
   </tr>
   <tr>
-    <td>Md Sadman Ali</td>
-    <td>1911196-042</td>
-    <td><a href="mailto:sadman.ali@northsouth.edu">sadman.ali@northsouth.edu</a></td>
-  </tr>
-  <tr>
     <td>Mashruba Akter Sumona</td>
     <td>1913062-042</td>
     <td><a href="mailto:mashruba.sumona@northsouth.edu">mashruba.sumona@northsouth.edu</a></td>
