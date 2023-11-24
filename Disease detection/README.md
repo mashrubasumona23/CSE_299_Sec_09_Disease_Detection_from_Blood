@@ -9,10 +9,10 @@
 *
 
 ### Outputs (4 pages) 
-<p align="center"><img align="center" src=" https://github.com/mashrubasumona23/CSE_299_Sec_09_Disease_Detection_from_Blood/blob/main/Disease%20detection/Outputs/Page1.png"></p>
+<p align="center"><img align="center" src="https://github.com/mashrubasumona23/CSE_299_Sec_09_Disease_Detection_from_Blood/blob/main/Disease%20detection/Outputs/Page1.png"></p>
 <p align="center"><img align="center" src="https://github.com/mashrubasumona23/CSE_299_Sec_09_Disease_Detection_from_Blood/blob/main/Disease%20detection/Outputs/Page2.png "></p>
 <p align="center"><img align="center" src="https://github.com/mashrubasumona23/CSE_299_Sec_09_Disease_Detection_from_Blood/blob/main/Disease%20detection/Outputs/Page3.png "></p>
-<p align="center"><img align="center" src="https://github.com/mashrubasumona23/CSE_299_Sec_09_Disease_Detection_from_Blood/blob/main/Disease%20detection/Outputs/Page4.png "></p>
+<p align="center"><img align="center" src="https://github.com/mashrubasumona23/CSE_299_Sec_09_Disease_Detection_from_Blood/blob/main/Disease%20detection/Outputs/Page4.png"></p>
 
 
 *
